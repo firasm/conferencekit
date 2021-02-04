@@ -29,7 +29,7 @@
       sections:
         - file: content/04_post-conference/stub1
           title: Resource 3
-- part: Retrospective
+- part: Next Conference
   chapters:
     - file: content/05_conference-retrospective
       title: Introduction
@@ -37,8 +37,12 @@
         - file: content/05_conference-retrospective/stub1
           title: Resource 4
 
-- part: Templates Resources
+- part: Templates
   chapters:
     - file: content/templates/templates
     - url: https://dash-gallery.plotly.host/dash-multipage-report/
       title: Multi-page Report
+
+- part: Additional Resources
+  chapters:
+    - file: content/resources/resources.md
