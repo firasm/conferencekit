@@ -4,26 +4,38 @@
   chapters:
     - file: content/01_planning
       title: Introduction
-
+      sections:
+        - file: content/01_planning/stub1
+          title: Resource 1
 - part: Before
   chapters:
     - file: content/02_pre-conference
       title: Introduction
+      sections:
+        - file: content/02_pre-conference/stub1
+          title: Resource 1
 
 - part: During
   chapters:
     - file: content/03_conference
       title: Introduction
-
+      sections:
+        - file: content/03_conference/stub1
+          title: Resource 2
 - part: After
   chapters:
     - file: content/04_post-conference
       title: Introduction
-
+      sections:
+        - file: content/04_post-conference/stub1
+          title: Resource 3
 - part: Retrospective
   chapters:
     - file: content/05_conference-retrospective
       title: Introduction
+      sections:
+        - file: content/05_conference-retrospective/stub1
+          title: Resource 4
 
 - part: Templates Resources
   chapters:
