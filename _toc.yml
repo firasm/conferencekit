@@ -1,0 +1,26 @@
+- file: content/home
+
+- part: Planning
+  chapters:
+    - file: content/01_planning
+      title: Introduction
+
+- part: Before
+  chapters:
+    - file: content/02_pre-conference
+      title: Introduction
+
+- part: During
+  chapters:
+    - file: content/03_conference
+      title: Introduction
+
+- part: After
+  chapters:
+    - file: content/04_post-conference
+      title: Introduction
+
+- part: Retrospective
+  chapters:
+    - file: content/05_conference-retrospective
+      title: Introduction

@@ -1,1 +1,1 @@
-# conferencekit
+# Conference Diversity Toolkit
