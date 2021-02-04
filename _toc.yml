@@ -24,3 +24,9 @@
   chapters:
     - file: content/05_conference-retrospective
       title: Introduction
+
+- part: Templates Resources
+  chapters:
+    - file: content/templates/templates
+    - url: https://dash-gallery.plotly.host/dash-multipage-report/
+      title: Multi-page Report
