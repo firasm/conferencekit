@@ -1,47 +1,137 @@
 - file: content/home
 
-- part: Planning
+- part: General Principles
   chapters:
     - file: content/01_planning
       title: Introduction
+    - file: content/01_planning/stub1
+      title: Striking a Committee
       sections:
-        - file: content/01_planning/stub1
-          title: Resource 1
-- part: Before
+        - file: content/01_planning/stub6
+          title: Forming a diverse planning committee
+        - file: content/01_planning/stub6
+          title: Understanding discipline-specific inequities
+        - file: content/01_planning/stub6
+          title: Recruiting diverse keynote speakers
+    - file: content/01_planning/stub2
+      title: Code of Conduct
+    - file: content/01_planning/stub3
+      title: Choosing a Venue
+      sections:
+        - file: content/01_planning/stub6
+          title: Wheelchair accessibility
+        - file: content/01_planning/stub6
+          title: Parking for people with disabilities        
+    - file: content/01_planning/stub4
+      title: Soliciting Sponsors & Funding
+    - file: content/01_planning/stub5
+      title: Marketing and Advertising with an EDI focus
+- part: Pre-Event Logistics
   chapters:
     - file: content/02_pre-conference
       title: Introduction
+    - file: content/02_pre-conference/stub1
+      title: Conference Website
       sections:
-        - file: content/02_pre-conference/stub1
-          title: Resource 1
-
-- part: During
+        - file: content/02_pre-conference/stub6
+          title: Registration Costs
+        - file: content/02_pre-conference/stub6
+          title: Bursaries & Financial Aid
+        - file: content/02_pre-conference/stub6
+          title: EDI pledge
+    - file: content/02_pre-conference/stub2
+      title: Collecting Data on EDI
+      sections:
+        - file: content/02_pre-conference/stub6
+          title: Sample questions
+        - file: content/02_pre-conference/stub6
+          title: Privacy and Confidentiality
+    - file: content/02_pre-conference/stub3
+      title: Transportation
+    - file: content/02_pre-conference/stub4
+      title: Information for International attendees
+      sections:
+        - file: content/02_pre-conference/stub6
+          title: Cultural Norms and Language
+        - file: content/02_pre-conference/stub6
+          title: Visa letters and Immigration
+        - file: content/02_pre-conference/stub6
+          title: Flights, Directions to Venue
+        - file: content/02_pre-conference/stub6
+          title: Things to see and do
+    - file: content/02_pre-conference/stub5
+      title: Pre-conference dinner/socialising night
+- part: During the event
   chapters:
     - file: content/03_conference
       title: Introduction
-      sections:
-        - file: content/03_conference/stub1
-          title: Resource 2
-- part: After
+    - file: content/03_conference/stub1
+      title: Venue
+    - file: content/03_conference/stub2
+      title: Presentations
+    - file: content/03_conference/stub3
+      title: Services
+    - file: content/03_conference/stub4
+      title: Social
+    - file: content/03_conference/stub5
+      title: Recognition
+    - file: content/03_conference/stub6
+      title: Miscellaneous
+- part: After the Event
   chapters:
     - file: content/04_post-conference
       title: Introduction
+    - file: content/04_post-conference/stub1
+      title: Post-Event Surveys
       sections:
-        - file: content/04_post-conference/stub1
-          title: Resource 3
+        - file: content/04_post-conference/stub6
+          title: For attendees 
+        - file: content/04_post-conference/stub6
+          title: For members of the community
+        - file: content/04_post-conference/stub6
+          title: Anonymous feedback
+        - file: content/04_post-conference/stub6
+          title: Building connections after the conference
+    - file: content/04_post-conference/stub2
+      title: EDI Impact Report
+      sections:
+        - file: content/04_post-conference/stub6
+          title: Report on demographic data
+        - file: content/04_post-conference/stub6
+          title: Participant Testimonials
+        - file: content/04_post-conference/stub6
+          title: Qualitative and Quantitative analysis
+    - file: content/04_post-conference/stub3
+      title: Organizer Debrief
+      sections:
+        - file: content/04_post-conference/stub6
+          title: Impact of conference
+        - file: content/04_post-conference/stub6
+          title: Next steps
+        - file: content/04_post-conference/stub6
+          title: Deliberate review of feedback 
+        - file: content/04_post-conference/stub6
+          title: Prepare report for next event
 - part: Next Conference
   chapters:
     - file: content/05_conference-retrospective
       title: Introduction
-      sections:
-        - file: content/05_conference-retrospective/stub1
-          title: Resource 4
+    - file: content/05_conference-retrospective/stub1
+      title: Key Considerations
+    - file: content/05_conference-retrospective/stub2
+      title: Reviewing Equity Demographics
 
 - part: Templates
   chapters:
     - file: content/templates/templates
     - url: https://dash-gallery.plotly.host/dash-multipage-report/
       title: Multi-page Report
+    - file: content/templates/templates
+      title: Registration Forms
+    - file: content/templates/templates
+      title: Evaluation Framework
+    - file: content/templates/templates
+      title: Budget Spreadsheet
 
 - part: Additional Resources
   chapters:

@@ -4,8 +4,15 @@
 
 What is this all about?
 
-## Editing this site
+## Who We Are
 
+## Commitments
+
+## Who are equity-deserving groups?
+
+## Mission
+
+## Editing this site
 
 ```{dropdown} Testimonial from conference
     :container: + shadow

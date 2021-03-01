@@ -1,0 +1,3 @@
+# New Item
+
+This is an empty stub that could contain a resource, sample policies, guidelines, etc...

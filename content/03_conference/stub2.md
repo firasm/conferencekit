@@ -1,17 +1,16 @@
-# Venues
-
-## Accessibility Accommodations 
+# Presentations
 
 This is an empty stub that could contain a resource, sample policies, guidelines, etc...
 
-## Lactation Rooms
+## Recorded Sessions
 
 This is an empty stub that could contain a resource, sample policies, guidelines, etc...
 
-## First-Timers' event
+
+## Closed-captioning & Subtitles
 
 This is an empty stub that could contain a resource, sample policies, guidelines, etc...
 
-## Child Care
+## Visual and Auditory Accessibility
 
 This is an empty stub that could contain a resource, sample policies, guidelines, etc...
