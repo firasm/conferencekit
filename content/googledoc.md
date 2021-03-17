@@ -53,8 +53,41 @@ Source: [Greg Wilson](https://education.rstudio.com/blog/2020/10/learner-persona
 
 Anya needs workshops (so that she can allocate focused time) and how-to guides (for her research). She would like ready-to-use lesson material she could remix for her students and some orientation material to demystify jargon (what the hell is a “pull request”?). Finally, it’s important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice.
 
+# Pre-Event Logistics
+## General Principles
+These general principles are guided by intersectional approaches to access and inclusion practiced by organizations led by disabled Black Indigenous People of Color (BIPOC) including Sins Invalid, Krip Hop Nation, and Autistic Self Advocacy Network. Among the transformative practices of these organizations is a commitment to access as collective, shared labor that recognizes the importance of “centering the leadership of those most affected.”[3](https://static1.squarespace.com/static/5bed3674f8370ad8c02efd9a/t/5f1f0783916d8a179c46126d/1595869064521/10_Principles_of_DJ-2ndEd.pdf)
 
+-  How do conferences, symposia, and other public-facing events further the university’s commitment to learning as articulated at the outset of this document?
+- Why might references to diversity and inclusion be regarded as problematic within communities that face ongoing systemic discrimination? 
+- What is the original context of the term “intersectionality” and how do we ensure that our own work honors the history of this term?
+- Universal Design for Learning (UDL) has been widely adopted as a generative framework in recent years. UDL developed out of universal design principles in architecture and seeks to create learning situations in which “all learners can access and participate in meaningful, challenging learning opportunities” (CAST). Yet researchers, educators, and communities continue to urge caution, noting that the promise of “universality” in these frameworks is potentially a barrier to structural transformation, equity, and justice. How might our own engagement with Universal Design carefully navigate and honor these critiques by drawing on the practices of Disability Justice?
 
+## Getting Started
+As you begin to imagine the inclusive conference or learning gathering you hope to plan, it's important to consider how diversity will be represented on the planning committee. Consider the following when establishing your planning team:
+- Will members of your planning committee represent diversity of identity, gender, experiences, and expertise?
+- What local Indigenous protocols need to be observed, respected, and enacted upon?
+- Will the planning committee benefit from seeking the expertise of a local Indigenous Knowledge Keeper, and staff and/or faculty working in the area of diversity and inclusion?
+- Will the planning committee “hold space” to invite other experts into the planning as needed?
 
+In bringing together a collaborative, equitable planning committee you might also consider the following:
+- Be mindful that in striving for diversity and inclusion equity-deserving groups are often asked to take on the labour of educating others about diversity. Consider how you might alleviate that burden and/or compensate people for their contributions. 
+- Educate and recognize diversity and inclusion barriers in the field
+- Establish shared understandings, values, objectives with recognition that shared and common understandings very often reflect the presumptions and expectations of already privileged positions. 
+- Hold space for those who raise critical questions of the field (such as whose knowledge and perspectives are established as common sense).
+- Recognize and reflect on potential implicit biases in the planning itself.
+- Establish principles that you will use to help structure the planning. 
 
+## Introductory Reflection
+As the planning committee works together to make decisions about the venue, dates and times, and other event logistics, it is important to keep the purpose of the event at the forefront (I.e. sharing of diverse knowledges, collaboration, and relationship building). Focus your approach on valuing diversity and fostering the full, barrier-free participation of all contributors and attendees. As noted in the introduction, not everyone can be accommodated at all times. This is a process. Committing to create a professional learning environment that is welcoming and supportive on a practical/logistical level is integral to the foundations of an inclusive and equitable event that benefits everyone. 
 
+### Pre-Conference Communication
+Fostering inclusive participation starts with the initial messaging to potential participants. As organizers, how will you reach out to equity-deserving groups in ways that possible registrants recognize your commitment to inclusivity, accessibility, and equity? From initial announcements of when the registration will open to your early descriptions of the conference/learning gathering, it is critical that your messaging reflects your commitment to designing an accessible conference/learning gathering where diversity of identity is valued, expected, and respected, and where diversity of knowledges, scholarly research, and beliefs and perspectives is integral to fulsome participant engagement and deepening the learning experience.
+
+### Intial Messaging
+*Content required*
+
+### Considerations for International Travellers
+*Content required*
+
+### Choosing a Venue
+*Content required*
