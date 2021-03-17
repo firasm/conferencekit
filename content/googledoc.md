@@ -83,11 +83,54 @@ As the planning committee works together to make decisions about the venue, date
 ### Pre-Conference Communication
 Fostering inclusive participation starts with the initial messaging to potential participants. As organizers, how will you reach out to equity-deserving groups in ways that possible registrants recognize your commitment to inclusivity, accessibility, and equity? From initial announcements of when the registration will open to your early descriptions of the conference/learning gathering, it is critical that your messaging reflects your commitment to designing an accessible conference/learning gathering where diversity of identity is valued, expected, and respected, and where diversity of knowledges, scholarly research, and beliefs and perspectives is integral to fulsome participant engagement and deepening the learning experience.
 
-### Intial Messaging
+### Initial Messaging
 *Content required*
 
 ### Considerations for International Travellers
 *Content required*
 
 ### Choosing a Venue
+When choosing a venue, consider the space and possible uses and barriers from as many angles as possible. In particular, you might use your analysis of the gaps and barriers in your own field (such as unconscious bias) to address who might have been excluded from participation in the past? This will most likely include racialized, Indigenous, gender diverse, and physically and invisibly disabled people as well as people who are parenting, graduate students and contract faculty on limited budgets. 
+
+- What accessibility protocols, processes, procedures, structures are already in place?
+- Can the venue provide spaces for rest and reflection, family gatherings, informal connection?
+- Can child care be supported either within or close to the venue?
+- Will the venue allow for a barrier free flow between the events on the program schedule: or would people need to navigate inaccessible building structures, transportation, etc.?
+- What kind of technical supports are provided by the venue?
+
+### Lodging
+Accessibility at the forefront
+
+### Choosing a Date and Time
 *Content required*
+
+### Transportation
+- Accessible transportation and parking
+- Directions to/from airports, ports, train stations
+
+### Food, Drink, and Entertainment
+*Content required*
+
+### Collecting Participant Information
+*Content required*
+
+### Registration Process and Price
+*Content required*
+
+## Programme Development and Speaker Selection
+> We are working to build a community in which human rights are respected, and equity and inclusion are embedded in all areas of academic, work and campus life. (UBC Equity & Inclusion Office)
+
+The selection of speakers and presenters and the organization of the program for conferences and other learning events often contribute to the social dynamics of power that act as a barrier to a diversity of expertises, knowledges, and contributions to the university and individual disciplines. We often have implicit biases that require us to take a step back and to look at established cultures and processes from different perspectives. Are all members of the planning committee invited to offer their perspectives and experiences on how the process might be more equitable and inclusive? The following suggestions are intended to support the planning committee in addressing these often hidden barriers within and cross academic institutional structures that might impede the academic community from achieving its fullest potential.
+
+### Program 
+*Content required*
+
+### Valuing diversity for all sessions
+*Content required*
+
+### Establishing inclusive and equitable processes for paper and presentation selections
+- Inviting other evidence of expertise and experience--CVs can perpetuate professional “gate-keeping” 
+
+### Applying conference diversity and inclusion commitments to all session organizers
+- See training suggestions below
+
