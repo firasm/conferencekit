@@ -1,2 +1,3 @@
-# General Principles & Introduction
-# For the Design of Inclusive Conferences and Learning Gatherings
+# For the Design of Inclusive Conferences and Learning Gatherings: General Principles & Introduction
+## Who We Are
+Under the direction of the Senior Advisor to the Provost on Women and Gender-Diverse Faculty, a committee representing a cross-section of faculty, staff, and graduate students from University of British Columbia, Okanagan campus (UBCO), and University of British Columbia, Vancouver campus (UBCV) has been assembled (names are listed below). We bring a diversity of backgrounds, identities, and experiences. We are committed to the work of creating the structures necessary to ensure that conferences (including panels and lecture series) and other types of learning gatherings held on campus or organized by UBC community members, are equitable, diverse, strength based, and inclusive. As knowledge itself (knowledge production and sharing) is at the core of the University’s purpose, our goal is to create a community agreement with specific goals and actions for inclusive conference planning and design. 
