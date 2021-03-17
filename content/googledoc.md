@@ -173,5 +173,12 @@ The selection of speakers and presenters and the organization of the program for
     - Ombudsperson & safe/trained points of contact
 - Clear processes for discrimination & harassment
 
+# After the Conference/Learning Gathering
+## Measurements & Reflections
+*To be embedded through the document*
+- Pre-conference information gathering from participants
+- During the conference information gathering from participants
+- Post-conference outcomes 
 
-
+# Next Conference
+*Content required*
