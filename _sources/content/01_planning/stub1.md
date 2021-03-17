@@ -1,7 +1,0 @@
-# General Principles
-
-These general principles are guided by intersectional approaches to access and inclusion practiced by organizations led by disabled Black Indigenous People of Color (BIPOC) including Sins Invalid, Krip Hop Nation, and Autistic Self Advocacy Network. Among the transformative practices of these organizations is a commitment to access as collective, shared labor that recognizes the importance of “centering the leadership of those most affected.”
-How do conferences, symposia, and other public-facing events further the university’s commitment to learning as articulated at the outset of this document?
-Why might references to diversity and inclusion be regarded as problematic within communities that face ongoing systemic discrimination? 
-What is the original context of the term “intersectionality” and how do we ensure that our own work honors the history of this term?
-Universal Design for Learning (UDL) has been widely adopted as a generative framework in recent years. UDL developed out of universal design principles in architecture and seeks to create learning situations in which “all learners can access and participate in meaningful, challenging learning opportunities” (CAST). Yet researchers, educators, and communities continue to urge caution, noting that the promise of “universality” in these frameworks is potentially a barrier to structural transformation, equity, and justice. How might our own engagement with Universal Design carefully navigate and honor these critiques by drawing on the practices of Disability Justice?
