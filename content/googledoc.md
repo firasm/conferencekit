@@ -134,3 +134,44 @@ The selection of speakers and presenters and the organization of the program for
 ### Applying conference diversity and inclusion commitments to all session organizers
 - See training suggestions below
 
+# During the Conference/Learning Gathering
+## Fostering Inclusive Participation
+*Introduction required*
+
+### Detailing shared values
+*Content required*
+
+### Detailing expected behaviours
+*Content required*
+
+### Communication
+- Suggested strategies for inclusive presentations
+    - Recorded sessions
+    - Closed-captioning & subtitles
+    - Visual and Auditory Accessibility
+
+### Panel discussions and plenaries
+*Content required*
+
+### Q&A sessions
+*Content required*
+
+### Networking Sessions
+- Choosing safe venues if occurring away from conference venue
+- Catering considerations: dietary restrictions and allergies
+
+### Awards
+- Evaluating student awards (e.g. best poster in session) in an equitable way
+
+## Fostering an Inclusive Learning Environment
+*Introduction required*
+
+### Intercultural Competency Training for Organizers and Volunteers
+- Introductory preamble
+- Training staff & moderators
+- Providing clear lines of communication & supports
+    - Ombudsperson & safe/trained points of contact
+- Clear processes for discrimination & harassment
+
+
+
