@@ -13,3 +13,4 @@ In bringing together a collaborative, equitable planning committee you might als
 - Hold space for those who raise critical questions of the field (such as whose knowledge and perspectives are established as common sense).
 - Recognize and reflect on potential implicit biases in the planning itself.
 - Establish principles that you will use to help structure the planning. 
+- Add clarification
