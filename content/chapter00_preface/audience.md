@@ -6,6 +6,8 @@ Source: [Greg Wilson](https://education.rstudio.com/blog/2020/10/learner-persona
 
 [**Anya Academic**](https://education.rstudio.com/blog/2020/10/learner-personas/#anya-academic)
 
+<img src="https://rstudio-education.github.io/learner-personas/img/anya-academic.png" width=100>
+
 1. Anya, a professor of neuropsychology, studies color perception in infants. She is also responsible for teaching an introduction to statistics to 1100 first-year students every year. (Students complain that the Stats department’s introductory course is too theoretical and requires more programming knowledge than they have.)
 2. Anya runs several experiments on 50–100 infant subjects each year. She used to analyze the results with SPSS, but is switching to R (which she taught herself during a sabbatical). She has never taken a programming course, and suffers from impostor syndrome in discussions about things like GitHub and R Markdown.
 3. Anya would like to learn more about time series analysis to support her research, and about tools like Git and R Markdown. She also wants guidance using R to teach her intro stats course, which currently uses a mixture of Excel and SPSS.
