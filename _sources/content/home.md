@@ -30,7 +30,7 @@ We have thoughts on [fostering inclusive participation](https://firasm.github.io
 
 ## How can we evaluate our event's EDI? How can we preserve and build upon lessons for future events?
 
-Yes, an [introduction and checklist](https://firasm.github.io/conferencekit/content/chapter04_post/introduction.html), and [ways to describe the impact of EDI efforts](https://firasm.github.io/conferencekit/content/chapter04_post/impact.html).
+Here are an [introduction and checklist](https://firasm.github.io/conferencekit/content/chapter04_post/introduction.html), and [ways to describe the impact of EDI efforts](https://firasm.github.io/conferencekit/content/chapter04_post/impact.html).
 
 We have thoughts concerning [surveys of participants](https://firasm.github.io/conferencekit/content/chapter04_post/surveys.html), [debriefing within the planning committee](https://firasm.github.io/conferencekit/content/chapter04_post/debrief.html), and [building connections](https://firasm.github.io/conferencekit/content/chapter04_post/building_connections.html).
 
