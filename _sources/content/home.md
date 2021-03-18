@@ -1,28 +1,8 @@
 ![](../images/header.jpg)
 
-# Conference Toolkit
+# 10 simple rules 
 
-What is this all about?
-
-## Who We Are
-
-## Commitments
-
-## Who are equity-deserving groups?
-
-## Mission
-
-## Editing this site
-
-```{dropdown} Testimonial from conference
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/3gIXlLax0bk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
+> ["Ten Simple Rules"](https://collections.plos.org/collection/ten-simple-rules/) provide a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers.
 
 ```{admonition} This is a title
 An example of an admonition with a title.
@@ -62,6 +42,18 @@ of a hint directive.
 
 ```{important} This is an example
 of an important directive.
+```
+
+## Sample Testimonial
+
+```{dropdown} Testimonial from conference
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/3gIXlLax0bk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ```
 
 
