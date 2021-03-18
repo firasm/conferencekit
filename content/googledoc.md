@@ -63,7 +63,7 @@ Chapter 2 - Pre-Event Logistics
 ## International Attendees
 ## Applying conference diversity and inclusion commitments to all participants
 
-# Program
+# Programme
 ## Programme Development and Speaker Selection
 ## Valuing diversity for all sessions
 ## Establishing inclusive and equitable processes for paper and presentation selections
