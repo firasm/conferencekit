@@ -2,7 +2,7 @@
 
 - part: Meta Chapter
   chapters:
-    - file: content/todo.md
+    - file: content/todo
 
 - part: Preface
   chapters:
