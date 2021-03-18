@@ -1,5 +1,9 @@
 - file: content/home
 
+- part: Meta Chapter
+  chapters:
+    - file: content/todo.md
+
 - part: Preface
   chapters:
     - file: content/chapter00_preface/introduction
