@@ -3,6 +3,7 @@
 - part: Meta Chapter
   chapters:
     - file: content/todo
+    - file: content/howto
 
 - part: Preface
   chapters:
