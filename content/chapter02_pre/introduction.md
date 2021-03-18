@@ -1,8 +1,4 @@
-![](../images/header.jpg)
-
-# Pre-conference organization
-
-## Heading 2
+# Introduction
 
 ## Summary
 

@@ -30,146 +30,95 @@ Chapter 1 - Forming a Committee
 ## Pre-Conference Communication
 ## Initial Messaging
 
+# Committee Code of Conduct
+
+# Disciplines 
+
+# Funding
+
+# Marketing
+
+# Website
+## Accessible Website
+## Languages
+## Information about Financial Support
+## Code of Conduct 
+
 Chapter 2 - Pre-Event Logistics
 -----------------
 
+# Introduction
+
+# Dates
 
 # Venue
-
-### Choosing a Venue
-
-When choosing a venue, consider the space and possible uses and barriers from as many angles as possible. In particular, you might use your analysis of the gaps and barriers in your own field (such as unconscious bias) to address who might have been excluded from participation in the past? This will most likely include racialized, Indigenous, gender diverse, and physically and invisibly disabled people as well as people who are parenting, graduate students and contract faculty on limited budgets. 
-
-- What accessibility protocols, processes, procedures, structures are already in place?
-- Can the venue provide spaces for rest and reflection, family gatherings, informal connection?
-- Can child care be supported either within or close to the venue?
-- Will the venue allow for a barrier free flow between the events on the program schedule: or would people need to navigate inaccessible building structures, transportation, etc.?
-- What kind of technical supports are provided by the venue?
-
-### Transportation
-
-- Accessible transportation and parking
-- Directions to/from airports, ports, train stations
-
-
-### Food, Drink, and Entertainment
-
-*Content required*
-
-
-
-### Lodging
-
-Accessibility at the forefront
-
-*Content required*
-
-### Choosing a Date and Time
-
-*Content required*
-
-# International Attendees
-
-*Content required*
+## Choosing a Venue
+## Transportation
+## Food, Drink, and Entertainment
+## Lodging
 
 # Registration
-
 ## Collecting Participant Information
-
-*Content required*
-
 ## Registration Process and Price
-
-*Content required*
-
-## Applying conference diversity and inclusion commitments to all session organizers
-
-- See training suggestions below
+## International Attendees
+## Applying conference diversity and inclusion commitments to all participants
 
 # Program
-
 ## Programme Development and Speaker Selection
-
-> We are working to build a community in which human rights are respected, and equity and inclusion are embedded in all areas of academic, work and campus life. (UBC Equity & Inclusion Office)
-
-The selection of speakers and presenters and the organization of the program for conferences and other learning events often contribute to the social dynamics of power that act as a barrier to a diversity of expertises, knowledges, and contributions to the university and individual disciplines. We often have implicit biases that require us to take a step back and to look at established cultures and processes from different perspectives. Are all members of the planning committee invited to offer their perspectives and experiences on how the process might be more equitable and inclusive? The following suggestions are intended to support the planning committee in addressing these often hidden barriers within and cross academic institutional structures that might impede the academic community from achieving its fullest potential.
-
 ## Valuing diversity for all sessions
-
-*Content required*
-
 ## Establishing inclusive and equitable processes for paper and presentation selections
-
-- Inviting other evidence of expertise and experience--CVs can perpetuate professional “gate-keeping” 
-
 ## Applying conference diversity and inclusion commitments to all session organizers
 
-- See training suggestions below
-
-Chapter 3 - During the Gathering
------------------
-
-# Fostering Inclusive Participation
-
-*Introduction required*
-
-## Detailing shared values
-
-*Content required*
-
-## Detailing expected behaviours
-
-*Content required*
-
-## Communication
-
-- Suggested strategies for inclusive presentations
-    - Recorded sessions
-    - Closed-captioning & subtitles
-    - Visual and Auditory Accessibility
-
-# Sessions
-*Introduction required*
-## Panel discussions and plenaries
-
-*Content required*
-
-## Q&A sessions
-
-*Content required*
-
-## Networking Sessions
-
-- Choosing safe venues if occurring away from conference venue
-- Catering considerations: dietary restrictions and allergies
-
-# Awards
-
-- Evaluating student awards (e.g. best poster in session) in an equitable way
-
 # Training
-
-*Introduction required*
-
 ## Intercultural Competency Training for Organizers and Volunteers
 
-- Introductory preamble
-- Training staff & moderators
-- Providing clear lines of communication & supports
-    - Ombudsperson & safe/trained points of contact
-- Clear processes for discrimination & harassment
-
-
-Chapter 4 -  After the Gathering
+Chapter 3 - During the Event
 -----------------
 
-## Measurements & Reflections
+# Introduction
 
-*To be embedded through the document*
-- Pre-conference information gathering from participants
-- During the conference information gathering from participants
-- Post-conference outcomes 
+# Fostering Inclusive Participation
+## Detailing shared values
+## Detailing expected behaviours
+## Communication
 
-Chapter 5 -  Next Conference
+# Sessions
+## Panel discussions and plenaries
+## Q&A sessions
+## Networking Sessions
+
+# Awards
+## Transparency
+
+
+Chapter 4 -  After the Event
 -----------------
-*Content required*
+
+# Introduction
+
+# Surveys
+## For Attendees
+## For members of the community
+## Anonymous feedback
+
+# Building connections
+
+# EDI Impact
+## Report on demographic data
+## Participant Testimonials
+## Qualitative and Quantitative analysis
+
+# Debrief
+
+# Measurements & Reflections
+
+Chapter 5 -  Templates
+-----------------
+
+# Reports
+
+# Registration Forms
+
+# Evaluation Framework
+
+# Budgets

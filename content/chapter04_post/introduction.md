@@ -1,8 +1,6 @@
-![](../images/header.jpg)
+# Introduction
 
-# Post-Conference
-
-## Heading 2
+*Content required*
 
 ## Summary
 

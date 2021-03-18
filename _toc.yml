@@ -8,130 +8,41 @@
     - file: content/chapter00_preface/audience
     - file: content/charter00_preface/organization
 
-- part: Forming a Committee
+- part: Chapter 1 - Forming a Committee
   chapters:
     - file: content/chapter01_planning/introduction
     - file: content/chapter01_planning/reflections
-      title: Introduction
-    - file: content/chapter01_planning/stub6
-      title: Forming a diverse planning committee
-    - file: content/chapter01_planning/stub6
-      title: Understanding discipline-specific inequities
-    - file: content/chapter01_planning/stub6
-      title: Recruiting diverse keynote speakers
-    - file: content/chapter01_planning/stub2
-      title: Code of Conduct
+    - file: content/chapter01_planning/committee_conduct
+    - file: content/chapter01_planning/disciplines
+    - file: content/chapter01_planning/funding
+    - file: content/chapter01_planning/marketing
+    - file: content/chapter01_planning/website
 
-- part: Pre-Event Logistics
+- part: Chapter 2 - Pre-Event Logistics
   chapters:
-    - file: content/chapter02_pre/02_pre-conference
-      title: Introduction
-    - file: content/chapter01_planning/stub3
-      title: Choosing a Venue
-      sections:
-        - file: content/chapter01_planning/stub6
-          title: Wheelchair accessibility
-        - file: content/chapter01_planning/stub6
-          title: Parking for people with disabilities        
-    - file: content/chapter01_planning/stub4
-      title: Soliciting Sponsors & Funding
-    - file: content/chapter01_planning/stub5
-      title: Marketing and Advertising with an EDI focus
-    - file: content/chapter02_pre/stub1
-      title: Conference Website
-      sections:
-        - file: content/chapter02_pre/stub6
-          title: Registration Costs
-        - file: content/chapter02_pre/stub6
-          title: Bursaries & Financial Aid
-        - file: content/chapter02_pre/stub6
-          title: EDI pledge
-    - file: content/chapter02_pre/stub2
-      title: Collecting Data on EDI
-      sections:
-        - file: content/chapter02_pre/stub6
-          title: Sample questions
-        - file: content/chapter02_pre/stub6
-          title: Privacy and Confidentiality
-    - file: content/chapter02_pre/stub3
-      title: Transportation
-    - file: content/chapter02_pre/stub4
-      title: Information for International attendees
-      sections:
-        - file: content/chapter02_pre/stub6
-          title: Cultural Norms and Language
-        - file: content/chapter02_pre/stub6
-          title: Visa letters and Immigration
-        - file: content/chapter02_pre/stub6
-          title: Flights, Directions to Venue
-        - file: content/chapter02_pre/stub6
-          title: Things to see and do
-    - file: content/chapter02_pre/stub5
-      title: Pre-conference dinner/socialising night
+    - file: content/chapter02_pre/introduction
+    - file: content/chapter02_pre/dates
+    - file: content/chapter02_pre/venue
+    - file: content/chapter02_pre/registration
+    - file: content/chapter02_pre/program
+    - file: content/chapter02_pre/training
 
-- part: During the event
+- part: Chapter 3 - During the event
   chapters:
-    - file: content/chapter03_conference/03_conference
-      title: Introduction
-    - file: content/chapter03_conference/stub1
-      title: Venue
-    - file: content/chapter03_conference/stub2
-      title: Presentations
-    - file: content/chapter03_conference/stub3
-      title: Services
-    - file: content/chapter03_conference/stub4
-      title: Social
-    - file: content/chapter03_conference/stub5
-      title: Recognition
-    - file: content/chapter03_conference/stub6
-      title: Miscellaneous
+    - file: content/chapter03_conference/introduction
+    - file: content/chapter03_conference/inclusive_participation
+    - file: content/chapter03_conference/sessions
+    - file: content/chapter03_conference/awards
 
-- part: After the Event
+- part: Chapter 4 - After the Event
   chapters:
-    - file: content/chapter04_post/04_post-conference
-      title: Introduction
-    - file: content/chapter04_post/stub1
-      title: Post-Event Surveys
-      sections:
-        - file: content/chapter04_post/stub6
-          title: For attendees 
-        - file: content/chapter04_post/stub6
-          title: For members of the community
-        - file: content/chapter04_post/stub6
-          title: Anonymous feedback
-        - file: content/chapter04_post/stub6
-          title: Building connections after the conference
-    - file: content/chapter04_post/stub2
-      title: EDI Impact Report
-      sections:
-        - file: content/chapter04_post/stub6
-          title: Report on demographic data
-        - file: content/chapter04_post/stub6
-          title: Participant Testimonials
-        - file: content/chapter04_post/stub6
-          title: Qualitative and Quantitative analysis
-    - file: content/chapter04_post/stub3
-      title: Organizer Debrief
-      sections:
-        - file: content/chapter04_post/stub6
-          title: Impact of conference
-        - file: content/chapter04_post/stub6
-          title: Next steps
-        - file: content/chapter04_post/stub6
-          title: Deliberate review of feedback 
-        - file: content/chapter04_post/stub6
-          title: Prepare report for next event
+    - file: content/chapter04_post/introduction
+    - file: content/chapter04_post/surveys
+    - file: content/chapter04_post/building_connections
+    - file: content/chapter04_post/impact
+    - file: content/chapter04_post/debrief
 
-- part: Next Conference
-  chapters:
-    - file: content/chapter05_future/05_conference-retrospective
-      title: Introduction
-    - file: content/chapter05_future/stub1
-      title: Key Considerations
-    - file: content/chapter05_future/stub2
-      title: Reviewing Equity Demographics
-
-- part: Templates
+- part: Chapter 5 - Templates
   chapters:
     - file: content/templates/templates
     - url: https://dash-gallery.plotly.host/dash-multipage-report/
@@ -143,6 +54,6 @@
     - file: content/templates/templates
       title: Budget Spreadsheet
 
-- part: Additional Resources
+- part: Chapter 6 - Resources
   chapters:
     - file: content/resources/resources.md
