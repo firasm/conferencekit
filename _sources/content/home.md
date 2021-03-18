@@ -1,6 +1,6 @@
 ![](../images/header.jpg)
 
-# 10 simple rules OF LIFE
+# 10 simple rules
 
 > ["Ten Simple Rules"](https://collections.plos.org/collection/ten-simple-rules/) provide a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers.
 
