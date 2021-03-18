@@ -17,10 +17,10 @@ html:
   navbar_number_sections : false
   #baseurl : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   #google_analytics_id: UA-1# add your Google Analytics Tracking Code
-  # comments:
-  #   hypothesis: false
-  #   utterances:
-  #     repo: "ubco-cmps/cosc111_course"
+  comments:
+    hypothesis: false
+    utterances:
+      repo: "firasm/conferencekit"
   extra_footer : |
       <div>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
