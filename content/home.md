@@ -4,11 +4,13 @@
 
 All of these links can always be found in the menu to the left. (Individual pages' submenus will appear to the upper right for each page.)
 
-## Why does this exist? Who made it?
-
+```{dropdown} Why does this exist? Who made it?
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 See our [introduction](https://firasm.github.io/conferencekit/content/chapter00_preface/introduction.html), our [mission](https://firasm.github.io/conferencekit/content/chapter00_preface/mission.html), and our [community guidelines](https://firasm.github.io/conferencekit/content/chapter00_preface/guidelines.html).
 
 Here are some [examples of personas in different circumstances](https://firasm.github.io/conferencekit/content/chapter00_preface/audience.html) together with suggestions for how they might use this toolkit.
+```
 
 ## How should we form the planning committee? What should we think about well before the event?
 
