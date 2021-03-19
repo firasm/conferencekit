@@ -8,9 +8,9 @@ All of these links can always be found in the menu to the left. (Individual page
     :container: + shadow
     :title: bg-success text-white font-weight-bold
 
-    See our [introduction](https://firasm.github.io/conferencekit/content/chapter00_preface/introduction.html), our [mission](https://firasm.github.io/conferencekit/content/chapter00_preface/mission.html), and our [community guidelines](https://firasm.github.io/conferencekit/content/chapter00_preface/guidelines.html).
+    See our <a href="https://firasm.github.io/conferencekit/content/chapter00_preface/introduction.html">introduction</a>, our <a href="https://firasm.github.io/conferencekit/content/chapter00_preface/mission.html">mission</a>, and our <a href="https://firasm.github.io/conferencekit/content/chapter00_preface/guidelines.html">community guidelines</a>.
 
-    Here are some [examples of personas in different circumstances](https://firasm.github.io/conferencekit/content/chapter00_preface/audience.html) together with suggestions for how they might use this toolkit.
+    Here are some <a href="https://firasm.github.io/conferencekit/content/chapter00_preface/audience.html">examples of personas in different circumstances</a> together with suggestions for how they might use this toolkit.
 ```
 
 ```{dropdown} How should we form the planning committee? What should we think about well before the event?
