@@ -132,7 +132,9 @@ of an important directive.
 
 ![](images/demoImage.jpg)
 
-4. (Optional) By default, the image will be the same size you upload it. To change the width or the height, instead of using `![](content/images/demoImage.jpg)` you will need to use this syntax:
+4. Remember to always include alt-text with images, for the benefit of those who cannot see the images (or anyone working with a browser that isn't loading images).
+
+5. (Optional) By default, the image will be the same size you upload it. To change the width or the height, instead of using `![](content/images/demoImage.jpg)` you will need to use this syntax:
 
 ```
 <img src="images/demoImage.jpg" width=50>
@@ -140,5 +142,17 @@ of an important directive.
 <img src="images/demoImage.jpg" width=50>
 
 ```{warning}
-When adding images to .md files **inside** content, your path (i.e. `images/demoImage.jpg`) will need to have an additional `../` so the full code would look like `![](../content/images/demoImage.jpg)`).
+When adding images to .md files **inside** the "content" folder on GitHub, your path (i.e. `images/demoImage.jpg`) will need to have an additional `../` so the full code would look like `![](../content/images/demoImage.jpg)`).
 ```
+
+```{tip}
+Here are some sources of photos that are free to use:
+* https://nappy.co (specializing in Black and brown-skinned people)
+* https://unsplash.com
+* https://www.pexels.com
+* https://www.flickr.com/photos/134760388@N08/ (UBC marketing photos)
+```
+
+### General formatting
+
+You can explore a [full list of Markdown instructions](https://guides.github.com/features/mastering-markdown/) if you like. The most common ones can be found in [this Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
