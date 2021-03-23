@@ -5,6 +5,11 @@
     - file: content/todo
     - file: content/howto
 
+- part: First-level pages
+  chapters:
+    - file: content/guidelines
+    - file: content/toolkit
+
 - part: Preface
   chapters:
     - file: content/chapter00_preface/introduction
