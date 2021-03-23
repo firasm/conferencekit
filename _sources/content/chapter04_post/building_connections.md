@@ -1,3 +1,3 @@
 # Building Connections 
 
-*Content required*
+Just playing around with the editing features. 
