@@ -15,3 +15,9 @@ Random text here.
 ## New subsection
 
 More random text.
+
+```{attention}
+We are learning really really fast!
+
+More text here/second line.
+```
