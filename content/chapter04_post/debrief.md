@@ -1,3 +1,3 @@
 # Debrief
 
-*Content provided*
+*Content provided in italics*
