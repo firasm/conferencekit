@@ -7,3 +7,11 @@
 ## Transparency
 
 *Content required*
+
+# Major new section
+
+Random text here.
+
+## New subsection
+
+More random text.
