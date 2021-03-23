@@ -1,3 +1,3 @@
 # Debrief
 
-*Content required*
+*Content provided*
