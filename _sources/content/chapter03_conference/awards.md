@@ -10,7 +10,7 @@
 
 # Major new section
 
-Random text here.
+![GitHub Logo](/images/logo.png)
 
 ## New subsection
 
