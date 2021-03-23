@@ -56,24 +56,6 @@ We have thoughts concerning [surveys of participants](https://firasm.github.io/c
 Here are some sample [templates](https://firasm.github.io/conferencekit/content/templates/templates.html) for registration forms, budget spreadsheets, and evaluation frameworks, and a sample [multi-page report](https://dash-gallery.plotly.host/dash-multipage-report/) for qualitative and quantitative data about event EDI. We also have some widgets to record and store that information and to share it with others.
 ```
 
-# Ideas for further content
-
-## 10 simple rules 
-
-> ["Ten Simple Rules"](https://collections.plos.org/collection/ten-simple-rules/) provide a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers.
-
-## Sample Testimonial
-
-```{dropdown} Testimonial from conference
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/3gIXlLax0bk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
 ## Attribution 
 
 - [Header Photo by Johann Siemens](https://unsplash.com/@johannsiemens?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/scenery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
