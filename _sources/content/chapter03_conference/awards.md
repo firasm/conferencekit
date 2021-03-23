@@ -10,7 +10,7 @@
 
 # Major new section
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/logo.jpg)
 
 ## New subsection
 
