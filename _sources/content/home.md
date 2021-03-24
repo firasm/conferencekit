@@ -6,6 +6,26 @@ This is the page that viewers will first see when they come to our website.
 
 ## Who are we?
 
+Under the direction of the Senior Advisor to the Provost on Women and Gender-Diverse Faculty, a committee representing a cross-section of faculty, staff, and graduate students from University of British Columbia, Okanagan campus (UBCO), and University of British Columbia, Vancouver campus (UBCV) has been assembled (names are listed below). We bring a diversity of backgrounds, identities, and experiences. We are committed to the work of creating the structures necessary to ensure that conferences (including panels and lecture series) held on campus, or organized by UBC community members, are equitable, diverse, strength based, and inclusive. As knowledge itself (knowledge production and sharing) is at the core of the University’s purpose, our goal is to create a community agreement with specific actions for conference planning and design. 
+
+Committee members (alphabetical by last name)
+
+Jehannine Austin, Professor and Canada Research Chair, Depts of Psychiatry & Medical Genetics
+Terry-Lee Beaudry, Deputy Superintendent of Schools
+Asmin Chen, Project Manager, Equity and Inclusion Office
+Meaghan Efford, PhD Candidate, Institute for the Oceans and Fisheries
+Laila Ferreira, Assistant Professor, School of Journalism, Writing, and Media
+Sophia Frangou, Professor, Department of Psychiatry, Faculty of Medicine
+Mark Halpern, Professor, Department of Physics and Astronomy
+Stefan Sunandan Honisch, Banting Postdoctoral Fellow, Department of Theatre and Film
+Greg Martin, Professor, Department of Mathematics
+Firas Moosvi, Lecturer, CMPS Department
+Rosalin Miles, Research Associate, Indigenous Studies in UBC School of Kinesiology
+Marny Point, Indigenous Teacher Education Program Coordinator, Instructor, First Nations and Endangered Languages Team
+Jessica Schaub, Graduate Student, Institute for the Oceans and Fisheries
+Naznin Virji-Babul, Senior Advisor to the Provost on Women and Gender-Diverse Faculty
+
+
 ## Our mission
 
 Our ultimate goal is to build and sustain institutional capacity for welcoming and retaining researchers, educators, community members, and students from equity-deserving groups. As well, our mission is to center such people in positions of leadership and partnerships from which they have been (and, too often, continue to be) excluded.
