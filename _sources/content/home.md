@@ -2,7 +2,7 @@
 
 This is the page that viewers will first see when they come to our website.
 
-# Community Guidelines
+# Designing Inclusive Conferences and Learning Gatherings
 
 Our ultimate goal is to build and sustain institutional capacity for welcoming and retaining researchers, educators, community members, and students from equity-deserving groups. As well, our mission is to center such people in positions of leadership and partnerships from which they have been (and, too often, continue to be) excluded.
 
