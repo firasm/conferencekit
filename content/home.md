@@ -31,36 +31,22 @@ We recognize this process requires us to begin with the foundations of instituti
 
 Under the direction of the Senior Advisor to the Provost on Women and Gender-Diverse Faculty, a committee representing a cross-section of faculty, staff, and graduate students from University of British Columbia, Okanagan campus (UBCO), and University of British Columbia, Vancouver campus (UBCV) has been assembled (names are listed below). We bring a diversity of backgrounds, identities, and experiences. We are committed to the work of creating the structures necessary to ensure that conferences (including panels and lecture series) held on campus, or organized by UBC community members, are equitable, diverse, strength based, and inclusive. As knowledge itself (knowledge production and sharing) is at the core of the University’s purpose, our goal is to create a community agreement with specific actions for conference planning and design. 
 
-Committee members (alphabetical by last name)
+### Committee members (alphabetical by last name)
 
-Jehannine Austin, Professor and Canada Research Chair, Depts of Psychiatry & Medical Genetics
-
-Terry-Lee Beaudry, Deputy Superintendent of Schools
-
-Asmin Chen, Project Manager, Equity and Inclusion Office
-
-Meaghan Efford, PhD Candidate, Institute for the Oceans and Fisheries
-
-Laila Ferreira, Assistant Professor, School of Journalism, Writing, and Media
-
-Sophia Frangou, Professor, Department of Psychiatry, Faculty of Medicine
-
-Mark Halpern, Professor, Department of Physics and Astronomy
-
-Stefan Sunandan Honisch, Banting Postdoctoral Fellow, Department of Theatre and Film
-
-Greg Martin, Professor, Department of Mathematics
-
-Firas Moosvi, Lecturer, CMPS Department
-
-Rosalin Miles, Research Associate, Indigenous Studies in UBC School of Kinesiology
-
-Marny Point, Indigenous Teacher Education Program Coordinator, Instructor, First Nations and Endangered Languages Team
-
-Jessica Schaub, Graduate Student, Institute for the Oceans and Fisheries
-
-Naznin Virji-Babul, Senior Advisor to the Provost on Women and Gender-Diverse Faculty
-
+- Jehannine Austin, Professor and Canada Research Chair, Departments of Psychiatry & Medical Genetics
+- Terry-Lee Beaudry, Deputy Superintendent of Schools
+- Asmin Chen, Project Manager, Equity and Inclusion Office
+- Meaghan Efford, PhD Candidate, Institute for the Oceans and Fisheries
+- Laila Ferreira, Assistant Professor, School of Journalism, Writing, and Media
+- Sophia Frangou, Professor, Department of Psychiatry, Faculty of Medicine
+- Mark Halpern, Professor, Department of Physics and Astronomy
+- Stefan Sunandan Honisch, Banting Postdoctoral Fellow, Department of Theatre and Film
+- Greg Martin, Professor, Department of Mathematics
+- Rosalin Miles, Research Associate, Indigenous Studies in UBC School of Kinesiology
+- Firas Moosvi, Lecturer, CMPS Department
+- Marny Point, Indigenous Teacher Education Program Coordinator, Instructor, First Nations and Endangered Languages Team
+- Jessica Schaub, Graduate Student, Institute for the Oceans and Fisheries
+- Naznin Virji-Babul, Senior Advisor to the Provost on Women and Gender-Diverse Faculty
 
 As part of this process, we are asking for community feedback on what you think is needed to create inclusive and diverse conferences, panels, and speakers at UBC. We hope you participate and partner with us on this journey to advance inclusion and equitable access at UBC.
 
