@@ -4,13 +4,14 @@ This is the page that viewers will first see when they come to our website.
 
 # Designing Inclusive Conferences and Learning Gatherings
 
-```{dropdown}Preface
+```{dropdown} Preface
 The University of British Columbia is an institution of learning in two interconnected and interdependent ways. First, we are a community in which people from all parts of the world, and from many different backgrounds, come to live and learn together at UBC on the traditional, ancestral and unceded lands of the Musqueam people, Vancouver campus, and the Syilx people of the Okanagan Nation, Kelowna campus. Second, we are also dedicated to continuous and active institutional learning exchange about systemic inequality and the insidious, sometimes intangible, dynamics of privilege and oppression. We aspire to be an open, expansive, and expanding learning community.
 
 The University of British Columbia is committed to recognizing and honouring the historical and ongoing contributions of equity-deserving groups who have been historically, persistently, or systemically marginalized at the intersections of race, religion, gender, sexuality, class, and disability. As a first step on the long, collective path towards intersectional social justice, we declare solidarity with equity-deserving groups and communities. 
 ```
 
-```{dropdown}Our mission
+```{dropdown} Our mission
+
 Our ultimate goal is to build and sustain institutional capacity for welcoming and retaining researchers, educators, community members, and students from equity-deserving groups. As well, our mission is to center such people in positions of leadership and partnerships from which they have been (and, too often, continue to be) excluded.
 
 We recognize this process requires us to begin with the foundations of institutional structures across and within disciplines and units. The core of our mission is to ensure that learning events (conferences, seminars, congresses, symposiums, etc.) associated with UBC are designed to foster a diversity of knowledges, identities, and experiences that contribute to all fields and conversations. We commit to do the following:
@@ -27,7 +28,7 @@ We recognize this process requires us to begin with the foundations of instituti
 - Conduct research (quantitative and qualitative) that measures and analyzes the impacts of the community agreement and makes recommendations
 ```
 
-```{dropdown}Who are we?
+```{dropdown} Who are we?
 Under the direction of the Senior Advisor to the Provost on Women and Gender-Diverse Faculty, a committee representing a cross-section of faculty, staff, and graduate students from University of British Columbia, Okanagan campus (UBCO), and University of British Columbia, Vancouver campus (UBCV) has been assembled (names are listed below). We bring a diversity of backgrounds, identities, and experiences. We are committed to the work of creating the structures necessary to ensure that conferences (including panels and lecture series) held on campus, or organized by UBC community members, are equitable, diverse, strength based, and inclusive. As knowledge itself (knowledge production and sharing) is at the core of the University’s purpose, our goal is to create a community agreement with specific actions for conference planning and design. 
 
 ### Committee members (alphabetical by last name)
