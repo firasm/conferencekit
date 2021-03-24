@@ -1,4 +1,4 @@
-# Reflections
+# Introduction
 
 As the planning committee works together to make decisions about the venue, dates and times, and other event logistics, it is important to keep the purpose of the event at the forefront (I.e. sharing of diverse knowledges, collaboration, and relationship building). Focus your approach on valuing diversity and fostering the full, barrier-free participation of all contributors and attendees. As noted in the introduction, not everyone can be accommodated at all times. This is a process. Committing to create a professional learning environment that is welcoming and supportive on a practical/logistical level is integral to the foundations of an inclusive and equitable event that benefits everyone. 
 
