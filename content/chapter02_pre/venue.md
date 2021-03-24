@@ -17,11 +17,12 @@ When choosing a venue, consider the space and possible uses and barriers from as
 
 The venue's rooms for presentations, networking, entertainment, meals must be accessible to all participants. 
 You will want to ensure the following:
-•	there are accessible means (elevators, lifts, ramps) for travelling from one room or floor to another 
-•	rooms are large enough for a range of mobilities such as wheelchair users
-•	all presenters can access the podium/stage
-•	large rooms have a sound system: microphones, etc.
-•	rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
+- there are accessible means (elevators, lifts, ramps) for travelling from one room or floor to another 
+- rooms are large enough for a range of mobilities such as wheelchair users
+- all presenters can access the podium/stage
+- large rooms have a sound system: microphones, etc.
+- smaller rooms are available to use as family rooms, resting and quiet spaces
+- rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
 
 ## Washrooms
 
@@ -45,12 +46,4 @@ When reviewing the accessibility of the venue's transportation consider people w
 When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other kinds of conditions that might make driving the preferable option. Provide detailed information to the participants on the locations of accessible parking.
 
 
-## Food, Drink, and Entertainment
 
-
-
-## Lodging
-
-Accessibility at the forefront
-
-*Content required*
