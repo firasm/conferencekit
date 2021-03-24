@@ -11,18 +11,31 @@ Under the direction of the Senior Advisor to the Provost on Women and Gender-Div
 Committee members (alphabetical by last name)
 
 Jehannine Austin, Professor and Canada Research Chair, Depts of Psychiatry & Medical Genetics
+
 Terry-Lee Beaudry, Deputy Superintendent of Schools
+
 Asmin Chen, Project Manager, Equity and Inclusion Office
+
 Meaghan Efford, PhD Candidate, Institute for the Oceans and Fisheries
+
 Laila Ferreira, Assistant Professor, School of Journalism, Writing, and Media
+
 Sophia Frangou, Professor, Department of Psychiatry, Faculty of Medicine
+
 Mark Halpern, Professor, Department of Physics and Astronomy
+
 Stefan Sunandan Honisch, Banting Postdoctoral Fellow, Department of Theatre and Film
+
 Greg Martin, Professor, Department of Mathematics
+
 Firas Moosvi, Lecturer, CMPS Department
+
 Rosalin Miles, Research Associate, Indigenous Studies in UBC School of Kinesiology
+
 Marny Point, Indigenous Teacher Education Program Coordinator, Instructor, First Nations and Endangered Languages Team
+
 Jessica Schaub, Graduate Student, Institute for the Oceans and Fisheries
+
 Naznin Virji-Babul, Senior Advisor to the Provost on Women and Gender-Diverse Faculty
 
 
