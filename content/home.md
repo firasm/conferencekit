@@ -4,11 +4,9 @@ This is the page that viewers will first see when they come to our website.
 
 # Community Guidelines
 
-## Mission
-
 Our ultimate goal is to build and sustain institutional capacity for welcoming and retaining researchers, educators, community members, and students from equity-deserving groups. As well, our mission is to center such people in positions of leadership and partnerships from which they have been (and, too often, continue to be) excluded.
 
-We recognize this process requires us to begin with the foundations of institutional structures across and within disciplines and units. The core of our mission is to ensure that learning events (i.e., conferences, seminars, congresses, symposiums, etc.), associated with UBC, are designed to foster a diversity of knowledges, identities, and experiences that contribute to all fields and conversations. We commit to do the following:
+We recognize this process requires us to begin with the foundations of institutional structures across and within disciplines and units. The core of our mission is to ensure that learning events (conferences, seminars, congresses, symposiums, etc.) associated with UBC are designed to foster a diversity of knowledges, identities, and experiences that contribute to all fields and conversations. We commit to do the following:
 
 - Establish specific actions for reconciliation, including decolonizing educational methodologies and practices and holding space for Indigenous perspectives and knowledges from Indigenous peoples;
 - Identify and remove barriers for equity-deserving groups and individuals
@@ -23,10 +21,6 @@ We recognize this process requires us to begin with the foundations of instituti
 
 As part of this process, we are asking for community feedback on what you think is needed to create inclusive and diverse conferences, panels, and speakers at UBC. We hope you participate and partner with us on this journey to advance inclusion and equitable access at UBC.
 
-## Links and/or summary
-
-What goes here?
-
 # Toolkit
 
-Describe what it is and provide links to it.
+In addition to a description of [why these guidelines are needed](https://firasm.github.io/conferencekit/content/chapter00_preface/guidelines.html) and the [philosophy behind them](https://firasm.github.io/conferencekit/content/chapter00_preface/introduction.html), this guide contains a [toolkit that organizers can use](https://firasm.github.io/conferencekit/content/toolkit.html) when conceiving, planning, and implement learning events.
