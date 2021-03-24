@@ -4,6 +4,10 @@ This is the page that viewers will first see when they come to our website.
 
 # Designing Inclusive Conferences and Learning Gatherings
 
+## Who are we?
+
+## Our mission
+
 Our ultimate goal is to build and sustain institutional capacity for welcoming and retaining researchers, educators, community members, and students from equity-deserving groups. As well, our mission is to center such people in positions of leadership and partnerships from which they have been (and, too often, continue to be) excluded.
 
 We recognize this process requires us to begin with the foundations of institutional structures across and within disciplines and units. The core of our mission is to ensure that learning events (conferences, seminars, congresses, symposiums, etc.) associated with UBC are designed to foster a diversity of knowledges, identities, and experiences that contribute to all fields and conversations. We commit to do the following:
