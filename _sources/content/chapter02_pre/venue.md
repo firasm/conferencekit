@@ -28,10 +28,13 @@ You will want to ensure the following:
 
 Access to washrooms will be very important to the wellbeing of the event's participants. Ensure that there are accessible washrooms for disabled individuals as well as gender neutral washrooms and washrooms with change tables. If there are no gender neutral washrooms then you can create signage to assign one washroom as a gender neutral space. 
 
+## Technology
+
+Consider if there are any spaces and/or technological services for streaming and/or recording events so that participantes who are unable to attend on the day can still contribute.
 
 ## Transportation
 
-When reviewing the accessibility of the venue's transportation consider people with mobility challenges (E.g. wheelchair users) as well as other kinds of conditions that might require extra planning. 
+When reviewing the accessibility of the venue's transportation consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might require extra planning. 
 
 - Ensure the venue is reachable by accessible public or private transportation 
 - Provide specific information and instructions on:
@@ -43,7 +46,22 @@ When reviewing the accessibility of the venue's transportation consider people w
 
 ## Parking
 
-When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other kinds of conditions that might make driving the preferable option. Provide detailed information to the participants on the locations of accessible parking.
+When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might make driving the preferable option. Provide detailed information such as maps to the participants on the locations of accessible parking.
 
+## Food, Drink, and Entertainment
 
+Food, drink and entertainment are integral to the social and networking opportunities of any event. It should not be difficult to accommodate dietary needs if attendee information is gathered early in the process. There are a range of reasons why someone might have dietrary restrictions such as religion/faith, pregnancy, disability, etc. See the suggested considerations below created by the University of Oxford's School of Geography and the Environment (https://reachwater.org.uk/wp-content/uploads/2019/05/2019_05_22_Inclusive-Conference-Guide-1.pdf) 
+- Collect information early about dietary needs and preferences (e.g. during the registration).
+- People with specific mobility or sight impairments might need additional support during breaks, for instance to carry plates of food and drinks.
+- If you are not providing meals or snacks, create a list of restaurants close to the venue that provide vegetarian/vegan/ kosher/gluten-free food, or other
+options.
+- If you are providing a buffet lunch, ensure that dishes/ingredients, or at least allergens, are clearly labelled.
+- Ensure that not all social gatherings are alcohol or bar-centred. Offer alcohol free alternatives for drinks receptions, and caffeine-free/gluten free options for
+refreshment breaks, and ensure they are labelled clearly.
+- Attendees observing Ramadan will fast from sunrise to sunset. During this period, no food or drink will be consumed during daytime. If breakfast and dinners are provided at the conference, if possible, make arrangements for these attendees to eat at a later or earlier time, or discount the ticket price to allow them to make their own eating arrangements.
+- Consider that round tables for dinner are more conductive to networking and conversation than long tables. If you are making a table plan, ensure that a diversity of attendees can sit together
+
+## Lodging
+
+Ensure that conference hotels and lodging address and ensure accessibility. Communicate these options to participants. 
 
