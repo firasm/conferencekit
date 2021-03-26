@@ -11,5 +11,8 @@
 
 ## Networking Sessions
 
-- Choosing safe venues if occurring away from conference venue
-- Catering considerations: dietary restrictions and allergies
+- Choose venues that foster safety if occurring away from conference venue
+- Take into account dietary requests/needs at all networking sessions
+- Ensure that not all networking opportunities are alcohol related: offer nonalcoholic beverages other than water
+- Schedule sessions at various times of the day to accommodate those who cannot attend in the evenings
+- Post and reiterate conference values around inclusion and diversity at all sessions
