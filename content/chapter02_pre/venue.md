@@ -24,7 +24,7 @@ You will want to ensure the following:
 - All presenters can access the podium/stage.
 - Large rooms have a sound system: microphones, etc.
 - All rooms have a clear line of sight to the front of the room.
-- All rooms include extra chairs for people who might need to sit.
+- All rooms include extra chairs for people who might need to sit/rest.
 - Smaller rooms are available to use as family rooms, resting and quiet spaces.
 - Rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
 
@@ -32,11 +32,11 @@ You will want to ensure the following:
 
 Access to washrooms will be very important to the wellbeing of the event's participants. Ensure that there are accessible washrooms for disabled individuals as well as gender neutral washrooms and facilities for anyone who has specific toileting needs (E.g. change tables). 
 - If there are no gender neutral washrooms then you can create signage to assign one washroom as a gender neutral space.
-- If none of the washrooms have change tables or other toileting facilities ensure there is a quiet and private room or space made available and that clearly marked in the conference program.
+- If none of the washrooms have change tables or other toileting facilities ensure there is a quiet and private room made available and clearly marked in the conference program.
 
 ## Technology
 
-Leverage the expertise that we have all developed over the move to online events in terms of providing remote opportunities for teaching and learning, networking, and sharing knowledge. 
+Leverage the expertise that we have all developed through the move to online events in terms of providing remote opportunities for teaching and learning, networking, and sharing knowledge. 
 - Consider allocating spaces and/or technological services for streaming and/or recording events so that attendees who are unable to attend on the day can still participate.
 
 ## Transportation
@@ -50,7 +50,7 @@ When reviewing the accessibility of the venue's transportation consider people w
 - local protocols in hailing or booking taxis, tipping, etc.
 - how to pay, where to find schedules
 - hot to travel to/from airports, ports, trainstations 
-- who to contact for further assistance
+- who to contact for further transportation assistance
 
 ## Parking
 
