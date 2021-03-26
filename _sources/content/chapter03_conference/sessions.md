@@ -16,7 +16,8 @@ During the conference, it’s important for organizers and presenters to recogni
 
 ## Panel presentations and plenaries
 
-Moderators and facilitators of panels and plenary discussions should be carefully chosen according to the principles of intersectional justice. 
+Moderators and facilitators of panels and plenary discussions should be carefully chosen according to the principles of intersectional justice (https://www.sinsinvalid.org/citations).
+
 - Moderators and facilitators will be provided with guidelines and/or attend a briefing and/or educational session on the event's committments to inclusion and diversity. This includes understanding the field, being knowledgeable about attendees, and striving to include the voices of those who might be more reluctant to ask questions and contribute.
 - Frame panels and discussions by restating the event's goals and values and/or the code of conduct for a nonjudgmental and open exchange of ideas.
 - If there are members of equity deserving groups, graduate students, early career academics on the panel ensure that they are not scheduled to speak last.
