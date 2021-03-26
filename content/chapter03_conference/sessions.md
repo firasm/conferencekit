@@ -5,7 +5,11 @@ The sections here will provide suggestions for how to ensure that the conditions
 
 ## Panel discussions and plenaries
 
-*Content required*
+1. Moderators and facilitators of panels and plenary discussions should be carefully chosen to ensure that a range of attendees are represented in this role. Chosen moderators and facilitators will be provided with guidelines and/or attend a briefing and/or educational session on the event's committments to inclusion and diversity. This includes understanding the field, being knowledgeable about attendees, and striving to include the voices of those who might be more reluctant to ask questions and contribute.
+2. Frame panels and discussions by restating the event's goals and values and/or the code of conduct for a nonjudgmental and open exchange of ideas.
+3. If there are members of equity deserving groups, graduate students, early career academics on the panel ensure that they are not scheduled to speak last.
+4. Offer and provide mentoring for those who are not as experienced at attending and speaking at conferences.
+5. Build in time for people to consider questions and answers. Do not assume that everyone can think "on the spot" and have the confidence to jump in to a conversation. 
 
 ## Q&A sessions
 
@@ -17,20 +21,20 @@ The following considerations for establishing an inclusive Q&A session has benef
   - if it is a question
   - if the question is really saying that they should have given the paper
   - if the question needs to be asked in front of an audience
-  - if the question is asking the speaker to do work that the question asker should be doing.
-- Ask for the first question to come from a particular group (such as graduate students, Indigenous, BIPOC, women attendees, etc.)
-- Ensure a positive and rich question period by asking anyone who takes the mic if their question has been peer reviewed/vetted by another attendee and if they have situated their quesiton in relation to the considerations above. 
+  - if the question is asking the speaker to do work that the question asker should be doing
+- Invite attendees from a particular group (such as graduate students, Indigenous, BIPOC, women attendees, etc.) to ask the first question.
+- Ensure a positive and rich question period by reminding anyone who takes the mic to ensure their question has been peer reviewed/vetted.
 
 Additional suggestions include:
 
-- Provide opportunities for asking questions through phone apps or Twitter or other platforms.
-- Provide opportunities for asking questions anonymously (with vetting).
+- Offer opportunities for asking questions through phone apps or Twitter or other platforms.
+- Offer opportunities for asking questions anonymously (with vetting).
 - Make (if possible) transcripts available ahead of the panel or talk so that people have time to prepare their questions.
 
 
 ## Networking Sessions
 
-Networking is often experienced as a necessary but dreaded aspect of conferences and other learning events. Attendees should all have the option to participate or to opt out. Providing structured and thoughtfully designed networking opportunities will go a long way to ensuring that everyone benefits from this important, career and research advancing, component of the event. Suggestions for conference organizers include:
+Networking is often experienced as a necessary but dreaded aspect of conferences and other learning events. All attendees should have the option to participate or to opt out. Providing structured and thoughtfully designed networking opportunities will go a long way to ensuring that everyone benefits from this important, career and research advancing, component of the event. Suggestions for conference organizers include:
 
 - Choosing venues that foster safety if occurring away from conference venue
 - Considering the networking potential of social/entertainment events such as tours of the venue or local highlights, etc.
