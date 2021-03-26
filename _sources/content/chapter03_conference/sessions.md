@@ -1,7 +1,18 @@
 # Sessions
 
-It is important to recognize the barriers that might limit the contributions of diverse groups to the knowledge sharing, learning, and networking that is a part of your event. Some participants from diverse communities (such as women, BIPOC, disabled folks) might feel tokenized or reluctant to ask questions of to speak up if they are one of only a few diverse participants. Designing and hosting an event that is welcoming and fosters diverse viewpoints and perspectives requires more than including a range of speakers, panelists, and attendees. Event planners will need to consider hidden barriers (such as power dynamics and privilege) that can impede the full participation of all attendees. A survey conducted by the Oxford School of Geography and Environment found that "one third of respondents [...] said that they do not feel confident to ask questions at a conference or to network with people who are more senior than they are" (file:///Users/lailaferreira/Desktop/190522_Inclusive_Conference_Guide.pdf).
+It is important to recognize the barriers that might limit the contributions of diverse groups to the knowledge sharing, learning, and networking that is a part of your event. Some participants from diverse communities (such as women, BIPOC, disabled folks) might feel tokenized or reluctant to ask questions of to speak up if they are one of only a few diverse participants. Designing and hosting an event that is welcoming and fosters diverse viewpoints and perspectives requires more than including a range of speakers, panelists, and attendees. Event planners will need to consider hidden barriers (such as power dynamics and privilege) that can impede the full participation of all attendees. A survey conducted by the Oxford School of Geography and Environment found that "one third of respondents [...] said that they do not feel confident to ask questions at a conference or to network with people who are more senior than they are" (Oxford University School of Geography Developing Inclusive Conference Guide).
 The sections here will provide suggestions for how to ensure that the conditions are established for everyone to have the opportunity to contribute to panels, discussions, Q&A and networking sessions. 
+
+## Foster Learner Agency During Sessions, Discussions & Networking
+
+During the conference, it’s important for organizers and presenters to recognize and plan for learner agency.  Each participant will bring expertise, scholarly interests, personal learning styles, as well as varying degrees of confidence and comfort in engaging with others, asking questions and/or challenging information and beliefs presented.  Suggested strategies to uphold learner agency and enhance inclusive participation include:  
+- Ensure visual and auditory accessibility of conference content
+- Consider closed-captioning and subtitles
+- Create shared norms with participants to ensure a safe space for participants to ask questions, share and debate ideas
+- Encourage presenters to monitor participant engagement to ensure all participants have the opportunity to contribute their questions, ideas, and opinions
+- Seek participant approval if their contributions are to be recorded
+- How will participants be encouraged to network, engage in the learning, seek or share advice/concerns during the conference?
+
 
 ## Panel discussions and plenaries
 
