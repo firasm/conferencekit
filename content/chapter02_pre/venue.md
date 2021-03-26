@@ -18,19 +18,21 @@ When choosing a venue, consider the space and possible uses and barriers from as
 
 The venue's rooms for presentations, networking, entertainment, meals must be accessible to all participants. 
 You will want to ensure the following:
-- there are accessible means (elevators, lifts, ramps) for travelling from one room or floor to another 
-- signage is provided to direct attendees (including people with sight impairments) to key rooms and events. 
-- rooms are large enough for a range of mobilities such as wheelchair users
-- all presenters can access the podium/stage
-- large rooms have a sound system: microphones, etc.
-- smaller rooms are available to use as family rooms, resting and quiet spaces
-- rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
+- There are accessible means (elevators, lifts, ramps) for travelling from one room or floor to another. 
+- Signage is provided to direct attendees (including people with sight impairments) to key rooms and events. 
+- Rooms are large enough for a range of mobilities such as wheelchair users.
+- All presenters can access the podium/stage.
+- Large rooms have a sound system: microphones, etc.
+- All rooms have a clear line of sight to the front of the room.
+- All rooms include extra chairs for people who might need to sit.
+- Smaller rooms are available to use as family rooms, resting and quiet spaces.
+- Rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
 
 ## Washrooms
 
 Access to washrooms will be very important to the wellbeing of the event's participants. Ensure that there are accessible washrooms for disabled individuals as well as gender neutral washrooms and facilities for anyone who has specific toileting needs (E.g. change tables). 
 - If there are no gender neutral washrooms then you can create signage to assign one washroom as a gender neutral space.
-- If none of the washrooms have change tables or other toileting facilities ensure there is a quiet and private room or space made available and that is clearly marked in the conference program.
+- If none of the washrooms have change tables or other toileting facilities ensure there is a quiet and private room or space made available and that clearly marked in the conference program.
 
 ## Technology
 
@@ -67,7 +69,7 @@ options.
 - Ensure that not all social gatherings are alcohol or bar-centred. Offer alcohol free alternatives for drinks receptions, and caffeine-free/gluten free options for
 refreshment breaks, and ensure they are labelled clearly.
 - Attendees observing Ramadan will fast from sunrise to sunset. During this period, no food or drink will be consumed during daytime. If breakfast and dinners are provided at the conference, if possible, make arrangements for these attendees to eat at a later or earlier time, or discount the ticket price to allow them to make their own eating arrangements.
-- Consider that round tables for dinner are more conductive to networking and conversation than long tables. If you are making a table plan, ensure that a diversity of attendees can sit together
+- Consider that round tables for dinner are more conductive to networking and conversation than long tables. If you are making a table plan, ensure that a diversity of attendees can sit together.
 
 ## Lodging
 
