@@ -14,13 +14,14 @@ During the conference, it’s important for organizers and presenters to recogni
 - How will participants be encouraged to network, engage in the learning, seek or share advice/concerns during the conference?
 
 
-## Panel discussions and plenaries
+## Panel presentations and plenaries
 
-1. Moderators and facilitators of panels and plenary discussions should be carefully chosen to ensure that a range of attendees are represented in this role. Chosen moderators and facilitators will be provided with guidelines and/or attend a briefing and/or educational session on the event's committments to inclusion and diversity. This includes understanding the field, being knowledgeable about attendees, and striving to include the voices of those who might be more reluctant to ask questions and contribute.
-2. Frame panels and discussions by restating the event's goals and values and/or the code of conduct for a nonjudgmental and open exchange of ideas.
-3. If there are members of equity deserving groups, graduate students, early career academics on the panel ensure that they are not scheduled to speak last.
-4. Offer and provide mentoring for those who are not as experienced at attending and speaking at conferences.
-5. Build in time for people to consider questions and answers. Do not assume that everyone can think "on the spot" and have the confidence to jump in to a conversation. 
+Moderators and facilitators of panels and plenary discussions should be carefully chosen according to the principles of intersectional justice. 
+- Moderators and facilitators will be provided with guidelines and/or attend a briefing and/or educational session on the event's committments to inclusion and diversity. This includes understanding the field, being knowledgeable about attendees, and striving to include the voices of those who might be more reluctant to ask questions and contribute.
+- Frame panels and discussions by restating the event's goals and values and/or the code of conduct for a nonjudgmental and open exchange of ideas.
+- If there are members of equity deserving groups, graduate students, early career academics on the panel ensure that they are not scheduled to speak last.
+- Offer and provide mentoring for those who are not as experienced at attending and speaking at conferences.
+- Build in reflection time for people to consider questions and answers. Do not assume that everyone can think "on the spot" and have the confidence to jump in to a conversation. 
 
 ## Q&A sessions
 
