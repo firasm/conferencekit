@@ -4,7 +4,7 @@ The conference venue is integral to ensuring that the conference or learning eve
 
 ## Choosing a Venue
 
-When choosing a venue, consider the space and possible uses and barriers from as many angles as possible. In particular, you might use your analysis of the gaps and barriers in your own field (such as unconscious bias) to address who might have been excluded from participation in the past. This will most likely include racialized, Indigenous, gender diverse, and physically and invisibly disabled people as well as people who are parenting, graduate students and contract faculty on limited budgets. 
+When choosing a venue, consider the space and possible uses and barriers from as many angles as possible. In particular, you might use your analysis of the gaps and barriers in your own field (such as unconscious bias) to address who might have been excluded from participation in the past. This will most likely include racialized, Indigenous, gender diverse, and physically and invisibly disabled people as well as people who are parenting, graduate students and contract faculty on limited budgets. Consider the location of the venue as well and if the location will foster a sense of safety and security for all participants. 
 
 - What accessibility protocols, processes, procedures, structures are already in place?
 - Can the venue provide spaces for rest and reflection, family gatherings, informal connection?
@@ -12,12 +12,14 @@ When choosing a venue, consider the space and possible uses and barriers from as
 - Are there accessible washrooms for people with a range of identities and needs?
 - Will the venue allow for a barrier free flow between the events on the program schedule: or would people need to navigate inaccessible building structures, transportation, etc.?
 - What kind of technical supports are provided by the venue?
+- Will they provide (or can you set up) signage for directions, locations, etc. 
 
 ## Rooms
 
 The venue's rooms for presentations, networking, entertainment, meals must be accessible to all participants. 
 You will want to ensure the following:
 - there are accessible means (elevators, lifts, ramps) for travelling from one room or floor to another 
+- signage is provided to direct attendees (including people with sight impairments) to key rooms and events. 
 - rooms are large enough for a range of mobilities such as wheelchair users
 - all presenters can access the podium/stage
 - large rooms have a sound system: microphones, etc.
@@ -26,11 +28,14 @@ You will want to ensure the following:
 
 ## Washrooms
 
-Access to washrooms will be very important to the wellbeing of the event's participants. Ensure that there are accessible washrooms for disabled individuals as well as gender neutral washrooms and washrooms with change tables. If there are no gender neutral washrooms then you can create signage to assign one washroom as a gender neutral space. 
+Access to washrooms will be very important to the wellbeing of the event's participants. Ensure that there are accessible washrooms for disabled individuals as well as gender neutral washrooms and facilities for anyone who has specific toileting needs (E.g. change tables). 
+- If there are no gender neutral washrooms then you can create signage to assign one washroom as a gender neutral space.
+- If none of the washrooms have change tables or other toileting facilities ensure there is a quiet and private room or space made available and that is clearly marked in the conference program.
 
 ## Technology
 
-Consider if there are any spaces and/or technological services for streaming and/or recording events so that participantes who are unable to attend on the day can still contribute.
+Leverage the expertise that we have all developed over the move to online events in terms of providing remote opportunities for teaching and learning, networking, and sharing knowledge. 
+- Consider allocating spaces and/or technological services for streaming and/or recording events so that attendees who are unable to attend on the day can still participate.
 
 ## Transportation
 
@@ -39,14 +44,17 @@ When reviewing the accessibility of the venue's transportation consider people w
 - Ensure the venue is reachable by accessible public or private transportation 
 - Provide specific information and instructions on:
 - the accessibility of transportation options
-- suggested taxi companies or other safe travel options
+- suggested taxi companies, rideshare, or other safe travel options
+- local protocols in hailing or booking taxis, tipping, etc.
 - how to pay, where to find schedules
 - hot to travel to/from airports, ports, trainstations 
 - who to contact for further assistance
 
 ## Parking
 
-When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might make driving the preferable option. Provide detailed information such as maps to the participants on the locations of accessible parking.
+When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might make driving the preferable option. 
+
+Provide detailed information such as maps to the participants on the locations of accessible parking and how to navigate to the venue location.
 
 ## Food, Drink, and Entertainment
 
@@ -63,5 +71,5 @@ refreshment breaks, and ensure they are labelled clearly.
 
 ## Lodging
 
-Ensure that conference hotels and lodging address and ensure accessibility. Communicate these options to participants. 
+Ensure that conference hotels and lodging address and ensure accessibility. Communicate these options to participants with accessibility at the forefront of all messaging.  
 
