@@ -2,6 +2,18 @@
 
 This is the page that viewers will first see when they come to our website.
 
+# Welcome to the UBC Conference Diversity Toolkit
+### Welcome Video
+
+```{dropdown} Welcome Video
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://youtu.be/gcziu7p1Tgw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Designing Inclusive Conferences and Learning Gatherings
 
 ```{dropdown} Preface
