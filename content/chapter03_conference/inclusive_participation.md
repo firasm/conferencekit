@@ -25,7 +25,7 @@ As participants, presenters, volunteers and community members gather for the off
 
 Integral to establishing shared values is an understanding and agreement on the terms and the language used that will foster a welcoming and collegial environment. This includes addressing the exclusions that we might perpetuate through our use of language as detailed in this article from the BBC: https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use
 
-Section 
+For further guidance on inclusive language you might find the following document helpful as well: https://bccie.bc.ca/wp-content/uploads/2020/09/Definitions-booklet.pdf
 
 ## Detailing expected behaviours
 
