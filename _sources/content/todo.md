@@ -1,12 +1,3 @@
-# For today's meeting
-
-- Personnel: Checking in on people's bandwidth for this committee's work
-- Open competition by Office of Equity and Inclusion for funds for EDI-related projects
-  - Do we have ideas?
-  - Is the deadline too soon?
-
-# Things left to do
-
 ## Design
 
 - Update logo image
