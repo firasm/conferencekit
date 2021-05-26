@@ -1,6 +1,6 @@
 # Venue
 
-The conference venue is integral to ensuring that the conference or learning event is welcoming, safe, and inclusive. The committee will most likely have a limited number of options and some restrictions in terms of budget and timing, but it is important to take the following logistical aspects of the event as central to the planning process. Being aware of the accessibility features and/or limitations of the venue can help you to communicate clearly to the participants and anticipate any challenges that might arise. 
+The conference venue is integral to ensuring that the conference or learning event is welcoming, safe, and inclusive. The committee will most likely have a limited number of options and some restrictions in terms of budget and timing, but it is important to take the following logistical aspects of the event as central to the planning process. Being aware of the accessibility features and/or limitations of the venue can help you to communicate clearly to the participants and anticipate any needs that might arise. 
 
 ## Choosing a Venue
 
@@ -9,8 +9,8 @@ When choosing a venue, consider the space and possible uses and barriers from as
 - What accessibility protocols, processes, procedures, structures are already in place?
 - Can the venue provide spaces for rest and reflection, family gatherings, informal connection?
 - Can child care be supported either within or close to the venue?
-- Are there accessible washrooms for people with a range of identities and needs?
-- Will the venue allow for a barrier free flow between the events on the program schedule: or would people need to navigate inaccessible building structures, transportation, etc.?
+- Are there accessible washrooms for people with a range of needs? Are the washrooms welcome to gender-diverse people?
+- Will the venue allow for a barrier free flow between the events on the program schedule, or will people need to navigate inaccessible building structures, transportation, etc.?
 - What kind of technical supports are provided by the venue?
 - Will they provide (or can you set up) signage for directions, locations, etc. 
 
@@ -25,7 +25,7 @@ You will want to ensure the following:
 - Large rooms have a sound system: microphones, etc.
 - All rooms have a clear line of sight to the front of the room.
 - All rooms include extra chairs for people who might need to sit/rest.
-- Smaller rooms are available to use as family rooms, resting and quiet spaces.
+- Smaller rooms are available to use as family rooms, resting, and quiet spaces.
 - Rooms are not located near roadways, construction, mechanical equipment or have overhead lighting that creates noise and distractions that might cause disturbances for attendees.
 
 ## Washrooms
@@ -41,7 +41,7 @@ Leverage the expertise that we have all developed through the move to online eve
 
 ## Transportation
 
-When reviewing the accessibility of the venue's transportation consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might require extra planning. 
+When reviewing the accessibility of the venue's transportation consider people with mobility needs (for example, wheelchair users) as well as other conditions that might require extra planning. 
 
 - Ensure the venue is reachable by accessible public or private transportation 
 - Provide specific information and instructions on:
@@ -49,12 +49,12 @@ When reviewing the accessibility of the venue's transportation consider people w
 - suggested taxi companies, rideshare, or other safe travel options
 - local protocols in hailing or booking taxis, tipping, etc.
 - how to pay, where to find schedules
-- hot to travel to/from airports, ports, trainstations 
+- how to travel to/from airports, ports, trainstations 
 - who to contact for further transportation assistance
 
 ## Parking
 
-When reviewing the accessibility of the venue's parking ensure that you consider people with mobility challenges (E.g. wheelchair users) as well as other conditions that might make driving the preferable option. 
+When reviewing the accessibility of the venue's parking ensure that you consider people with mobility needs (for example, wheelchair users) as well as other conditions that might make driving the preferable option. 
 
 Provide detailed information such as maps to the participants on the locations of accessible parking and how to navigate to the venue location.
 
@@ -62,7 +62,7 @@ Provide detailed information such as maps to the participants on the locations o
 
 Food, drink and entertainment are integral to the social and networking opportunities of any event. It should not be difficult to accommodate dietary needs if attendee information is gathered early in the process. There are a range of reasons why someone might have dietrary restrictions such as religion/faith, pregnancy, disability, etc. See the suggested considerations below created by the University of Oxford's School of Geography and the Environment (https://reachwater.org.uk/wp-content/uploads/2019/05/2019_05_22_Inclusive-Conference-Guide-1.pdf) 
 - Collect information early about dietary needs and preferences (e.g. during the registration).
-- People with specific mobility or sight impairments might need additional support during breaks, for instance to carry plates of food and drinks.
+- People with specific mobility or reduced vision might need additional support during breaks, for instance to carry plates of food and drinks.
 - If you are not providing meals or snacks, create a list of restaurants close to the venue that provide vegetarian/vegan/ kosher/gluten-free food, or other
 options.
 - If you are providing a buffet lunch, ensure that dishes/ingredients, or at least allergens, are clearly labelled.
