@@ -45,12 +45,12 @@ When reviewing the accessibility of the venue's transportation consider people w
 
 - Ensure the venue is reachable by accessible public or private transportation 
 - Provide specific information and instructions on:
-- the accessibility of transportation options
-- suggested taxi companies, rideshare, or other safe travel options
-- local protocols in hailing or booking taxis, tipping, etc.
-- how to pay, where to find schedules
-- how to travel to/from airports, ports, trainstations 
-- who to contact for further transportation assistance
+  - the accessibility of transportation options
+  - suggested taxi companies, rideshare, or other safe travel options
+  - local protocols in hailing or booking taxis, tipping, etc.
+  - how to pay, where to find schedules
+  - how to travel to/from airports, ports, trainstations 
+  - who to contact for further transportation assistance
 
 ## Parking
 
