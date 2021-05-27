@@ -2,12 +2,17 @@
 
 ## Design
 
+Right now, GitHub + Markdown is good for our collaborative authoring, but limits our options. Should we at some point collaborate with someone with experience in web design to convert our GH+MD site into a beautiful and accessible one?
+
+- Top-level page(s)
 - Update logo image
 - Update header image
 - Update title
-- Accessibility (Stefan's email Thu May 20 and [this example](https://auditorial.withgoogle.com/accessibility-notebook))
-  - Right now, GitHub + Markdown is good for our collaborative authoring, but limits our options. Should we at some point collaborate with someone with experience in web design to convert our GH+MD site into a beautiful and accessible one?
-- Top-level page(s)
+- UBC [look and feel of websites](https://clf.ubc.ca)
+  - here are [some examples](https://cms.ubc.ca/showcase/)
+- Accessibility
+  - UBC's [web accessibility guidelines](https://www.ubc.ca/accessibility/)
+  - Stefan's email Thu May 20 and [this example](https://auditorial.withgoogle.com/accessibility-notebook)
 
 ## Sara-Jane Finlay's feedback
 
