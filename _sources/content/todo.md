@@ -14,18 +14,6 @@ Right now, GitHub + Markdown is good for our collaborative authoring, but limits
   - UBC's [web accessibility guidelines](https://www.ubc.ca/accessibility/)
   - Stefan's email Thu May 20 and [this example](https://auditorial.withgoogle.com/accessibility-notebook)
 
-## Sara-Jane Finlay's feedback
-
- - Copyediting
- - Inclusive language
-   - Knowledge, expertise -> ways of knowing, experiences, etc.
-   - Challenge(d) -> reduced, low, impaired, etc.
-   - Vision -> conception, strategy, goal, etc.
- - "Reflection" and "prayer space": same or distinct concepts?
-   - Ramadan dates: perhaps general religious holiday calendar?
- - Specific suggestions for Indigenous involvement in events: Mark cautions against being too formulaic
- - Other content clarification (for example, "shared norms with participants"; suggestion for newcomers introductory session)
-
 ## Tools and content
 
 - Providing guidelines for event organizers to make their sites accessible (Stefan's email Thu May 20 and [this example](https://auditorial.withgoogle.com/accessibility-notebook))
