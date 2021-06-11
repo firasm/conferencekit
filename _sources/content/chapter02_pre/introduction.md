@@ -4,7 +4,9 @@ As the planning committee works together to make decisions about the venue, date
 
 ## Pre-Conference Communication
 
-Fostering inclusive participation starts with the initial messaging to potential participants. As organizers, how will you reach out to equity-deserving groups in ways that possible registrants recognize your commitment to inclusivity, accessibility, and equity? From initial announcements of when the registration will open to your early descriptions of the conference/learning gathering, it is critical that your messaging reflects your commitment to designing an accessible conference/learning gathering where a diversity of identities is valued, expected, and respected, and where diversity of ways of knowing, scholarly research, and beliefs and perspectives is integral to fulsome participant engagement and deepening the learning experience.
+Fostering inclusive participation starts with the initial messaging to potential participants. As organizers, how will you reach out to equity-deserving groups in ways that possible registrants recognize your commitment to inclusivity, accessibility, and equity? At this point, the organizing committee might want/need to revisit the appropriate terminology and language to use for equity deserving groups. 
+
+From initial announcements of when the registration will open to your early descriptions of the conference/learning gathering, it is critical that your messaging reflects your commitment to designing an accessible conference/learning gathering where a diversity of identities is valued, expected, and respected, and where diversity of ways of knowing, scholarly research, and beliefs and perspectives is integral to fulsome participant engagement and deepening the learning experience.
 
 ## Initial Messaging Examples
 
