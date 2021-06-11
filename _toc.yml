@@ -1,69 +1,56 @@
-- file: content/home
-
-- part: Meta Chapter
+format: jb-book
+root: content/home
+parts:
+- caption: Meta Chapter
   chapters:
-    - file: content/todo
-    - file: content/howto
-
-- part: First-level pages
+  - file: content/todo
+  - file: content/howto
+- caption: First-level pages
   chapters:
-    - file: content/guidelines
-    - file: content/toolkit
-
-- part: Preface
+  - file: content/guidelines
+  - file: content/toolkit
+- caption: Preface
   chapters:
-    - file: content/chapter00_preface/introduction
-    - file: content/chapter00_preface/mission
-    - file: content/chapter00_preface/guidelines
-    - file: content/chapter00_preface/audience
-    - file: content/charter00_preface/organization
-
-- part: Chapter 1 - Forming a Committee
+  - file: content/chapter00_preface/introduction
+  - file: content/chapter00_preface/mission
+  - file: content/chapter00_preface/guidelines
+  - file: content/chapter00_preface/audience
+  - file: content/charter00_preface/organization
+- caption: Chapter 1 - Forming a Committee
   chapters:
-    - file: content/chapter01_planning/introduction
-    - file: content/chapter01_planning/reflections
-    - file: content/chapter01_planning/committee_conduct
-    - file: content/chapter01_planning/disciplines
-    - file: content/chapter01_planning/funding
-    - file: content/chapter01_planning/marketing
-    - file: content/chapter01_planning/website
-
-- part: Chapter 2 - Pre-Event Logistics
+  - file: content/chapter01_planning/introduction
+  - file: content/chapter01_planning/reflections
+  - file: content/chapter01_planning/committee_conduct
+  - file: content/chapter01_planning/disciplines
+  - file: content/chapter01_planning/funding
+  - file: content/chapter01_planning/marketing
+  - file: content/chapter01_planning/website
+- caption: Chapter 2 - Pre-Event Logistics
   chapters:
-    - file: content/chapter02_pre/introduction
-    - file: content/chapter02_pre/dates
-    - file: content/chapter02_pre/venue
-    - file: content/chapter02_pre/registration
-    - file: content/chapter02_pre/program
-    - file: content/chapter02_pre/training
-
-- part: Chapter 3 - During the event
+  - file: content/chapter02_pre/introduction
+  - file: content/chapter02_pre/dates
+  - file: content/chapter02_pre/venue
+  - file: content/chapter02_pre/registration
+  - file: content/chapter02_pre/program
+  - file: content/chapter02_pre/training
+- caption: Chapter 3 - During the event
   chapters:
-    - file: content/chapter03_conference/introduction
-    - file: content/chapter03_conference/inclusive_participation
-    - file: content/chapter03_conference/sessions
-    - file: content/chapter03_conference/awards
-
-- part: Chapter 4 - After the Event
+  - file: content/chapter03_conference/introduction
+  - file: content/chapter03_conference/inclusive_participation
+  - file: content/chapter03_conference/sessions
+  - file: content/chapter03_conference/awards
+- caption: Chapter 4 - After the Event
   chapters:
-    - file: content/chapter04_post/introduction
-    - file: content/chapter04_post/surveys
-    - file: content/chapter04_post/building_connections
-    - file: content/chapter04_post/impact
-    - file: content/chapter04_post/debrief
-
-- part: Chapter 5 - Templates
+  - file: content/chapter04_post/introduction
+  - file: content/chapter04_post/surveys
+  - file: content/chapter04_post/building_connections
+  - file: content/chapter04_post/impact
+  - file: content/chapter04_post/debrief
+- caption: Chapter 5 - Templates
   chapters:
-    - file: content/templates/templates
-    - url: https://dash-gallery.plotly.host/dash-multipage-report/
-      title: Multi-page Report
-    - file: content/templates/templates
-      title: Registration Forms
-    - file: content/templates/templates
-      title: Evaluation Framework
-    - file: content/templates/templates
-      title: Budget Spreadsheet
-
-- part: Chapter 6 - Resources
+  - file: content/templates/templates
+  - url: https://dash-gallery.plotly.host/dash-multipage-report/
+    title: Multi-page Report
+- caption: Chapter 6 - Resources
   chapters:
-    - file: content/resources/resources.md
+  - file: content/resources/resources.md
