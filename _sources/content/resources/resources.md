@@ -2,10 +2,10 @@
 
 Here is a link to some more resources about:
 
-## Category 1
+## Committee
 
-- [CBC](https://cbc.ca)
-- [CBC](https://cbc.ca)
+- [Reference on forming a committee](https://equity.ubc.ca/resources/activating-inclusion-toolkit/equity-diversity-and-inclusion-committees-getting-started-guide/)
+- [Intentional EDI Decision-Making Tool](https://equity3.sites.olt.ubc.ca/files/2020/10/Intentional-EDI-Decision-Making_Sep2020.pdf)
 - [CBC](https://cbc.ca)
 
 ## Category 2
