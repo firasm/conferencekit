@@ -1,6 +1,14 @@
 # Audience
 
-Here is one for inspiration.
+## Our intention for this page
+
+I think the idea for this page is that there are lots of different types of users who will be coming to this website, from junior academics on an organizing committee for the first time, to experienced event organizers, to leaders looking for thoughful oversight on existing events in their purview, to people wanting to learn (more) about the current environment and the need for EDI work and even some of the theoretical insight underlying the recommendations and guidelines, to website creators looking for examples of accessible design.
+
+The "learner personas" (one example of which is below) was one way of guiding users to the resources that might be most helpful to them. It seems that the idea is to create several learner personas, hopefully corresponding as well as possible to the categories of users we anticipate, and then for each persona to list a small number of pages on our website that might be the most helpful ones for that user to consult at first.
+
+Comparing my idea of our website's usage to the example below, it seems that we could probably have shorter writeups than the one for Anya Academic. In any case, if anyone wants to make a first pass at creating some personas and recommendations for pages for them, that would be great!
+
+## An external example, for inspiration
 
 Source: [Greg Wilson](https://education.rstudio.com/blog/2020/10/learner-personas/)
 
