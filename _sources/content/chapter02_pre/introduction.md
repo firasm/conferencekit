@@ -9,3 +9,7 @@ Fostering inclusive participation starts with the initial messaging to potential
 ## Initial Messaging Examples
 
 We could put some examples here of successful initial messaging.
+
+## Pre-Conference Community Building
+
+In addition to messaging, consider how you can build community for the event participants before the start date. This might include a pre-conference social event designed to welcome new or early career participants.
