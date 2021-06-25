@@ -5,10 +5,6 @@ parts:
   chapters:
   - file: content/todo
   - file: content/howto
-- caption: First-level pages
-  chapters:
-  - file: content/guidelines
-  - file: content/toolkit
 - caption: Preface
   chapters:
   - file: content/chapter00_preface/introduction
