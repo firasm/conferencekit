@@ -1,5 +1,7 @@
 # How to use this website
 
+**_This page is for the Speaker Diversity Committee's reference while contstructing the toolkit website; it will not be present in the final version._**
+
 ## Video Tutorials
 
 ```{dropdown} Step 1. Create a GitHub Account
