@@ -1,5 +1,7 @@
 # Things to do
 
+**_This page is for the Speaker Diversity Committee's reference while contstructing the toolkit website; it will not be present in the final version._**
+
 ## Design
 
 Right now, GitHub + Markdown is good for our collaborative authoring, but limits our options. Should we at some point collaborate with someone with experience in web design to convert our GH+MD site into a beautiful and accessible one?
