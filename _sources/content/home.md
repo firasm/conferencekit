@@ -16,8 +16,6 @@
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/gcziu7p1Tgw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-# Designing Inclusive Conferences and Learning Gatherings
-
 ```{dropdown} Preface
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
