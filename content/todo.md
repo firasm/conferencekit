@@ -19,10 +19,10 @@ The following pages are currently blank or have only placeholder information:
   - [Program](https://firasm.github.io/conferencekit/content/chapter02_pre/program.html)
   - [Training](https://firasm.github.io/conferencekit/content/chapter02_pre/training.html)
 - In Chapter 3:
-  - [Introduction](https://firasm.github.io/conferencekit/content/chapter03_conference/introduction.html)
+  - [Introduction](https://firasm.github.io/conferencekit/content/chapter03_conference/introduction.html) (the Summary section)
   - [Celebrating the Learning](https://firasm.github.io/conferencekit/content/chapter03_conference/awards.html)
 - In Chapter 4:
-  - [Introduction](https://firasm.github.io/conferencekit/content/chapter04_post/introduction.html)
+  - [Introduction](https://firasm.github.io/conferencekit/content/chapter04_post/introduction.html) (the Summary section)
   - [Surveys](https://firasm.github.io/conferencekit/content/chapter04_post/surveys.html)? _(short, but possibly already complete)_
   - [Building Connections](https://firasm.github.io/conferencekit/content/chapter04_post/building_connections.html)
   - [Impact of EDI Efforts](https://firasm.github.io/conferencekit/content/chapter04_post/impact.html)
