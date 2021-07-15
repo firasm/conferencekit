@@ -46,3 +46,4 @@ Right now, GitHub + Markdown is good for our collaborative authoring, but limits
 - Accessibility—we want to be a model to other websites, as well as listing considerations for website creators
   - UBC's [web accessibility guidelines](https://www.ubc.ca/accessibility/)
   - Stefan's email Thu May 20 and [this example](https://auditorial.withgoogle.com/accessibility-notebook)
+  - [CAST's Accessibility Policy](https://www.cast.org/site/accessibility) and their [Figuration project](https://www.cast.org/products-services/products/figuration), describing "an openly licensed, feature-rich, responsive, mobile first, accessible, front-end framework to develop websites with usability and accessibility at their core from the start."
